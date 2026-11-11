@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+
+# Textbook Example
+【源代码】深度学习入门：基于Python的理论与实现_20240716/
+
+# MNIST data
+data/
